@@ -34,8 +34,8 @@ If the user inputs the wrong information in the text prompt boxes, the app will 
 
 The following images demonstrate the password generator's functioning:
 
-![Screenshot1]\(./Assets/pw2.jpg) 
-![Screenshot2]\(./Assets/pw1.jpg) 
+![pw2](https://github.com/sifwolf1991/js-password-generator/assets/139626561/30e452b2-7fec-4780-ab5c-3f7da4e3e531)
+![pw1](https://github.com/sifwolf1991/js-password-generator/assets/139626561/006d2e60-204f-407f-8263-33f5139a5589)
 
 ## 4. Installation
 
