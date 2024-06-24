@@ -32,6 +32,10 @@ If the user inputs the wrong information in the text prompt boxes, the app will 
 
 ## 3. Visuals
 
+App deployed to GitHub Pages:
+
+https://sifzerda.github.io/js-password-generator/
+
 The following images demonstrate the password generator's functioning:
 
 ![pw2](https://github.com/sifwolf1991/js-password-generator/assets/139626561/30e452b2-7fec-4780-ab5c-3f7da4e3e531)
